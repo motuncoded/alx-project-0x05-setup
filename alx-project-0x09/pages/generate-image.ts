@@ -1,5 +1,5 @@
-import { HEIGHT, WIDTH } from "@/constants";
-import { RequestProps } from "@/interfaces";
+import { HEIGHT, WIDTH } from "../constants";
+import { RequestProps } from "../interfaces";
 import { NextApiRequest, NextApiResponse } from "next";
 
 const handler = async (request: NextApiRequest, response: NextApiResponse) => {

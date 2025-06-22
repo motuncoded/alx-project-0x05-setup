@@ -1,4 +1,4 @@
-import ImageCard from "@/components/common/ImageCard";
+import ImageCard from "../components/ImageCard";
 import React, { useState } from "react";
 
 const Home: React.FC = () => {
